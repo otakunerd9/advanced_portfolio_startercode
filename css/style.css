@@ -10,7 +10,10 @@
 
 
 /* About Section CSS */
-
+.col-xs-12 {
+    background-color:LightSeaGreen ;
+    border: solid;
+}
 
 
 /* Portfolio Item CSS */
